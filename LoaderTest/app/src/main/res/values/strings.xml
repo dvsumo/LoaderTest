@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoaderTest</string>
+    <string name="hello_world">Lets Test a Loader!</string>
+</resources>
